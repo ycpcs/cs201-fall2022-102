@@ -1,4 +1,4 @@
- ---
+---
 layout: default
 title: "Syllabus"
 ---
@@ -21,7 +21,7 @@ Office Hours:
 
  Section  | Days      |  Time       | Room    | Final Exam
  -------- | --------- |  ---------- | ------- | ----------
-102       | Wed/Fri   | 12:00-1:15  | KEC 123 | Fri, Dec 9, 03:00pm-5:00pm
+102       | Wed/Fri   | 12:00-1:15  | KEC 123 | Fri, Dec 9, 3:00pm-5:00pm
 103       | Tue/Thu   | 2:00-3:15  | KEC 123 | Thu, Dec 8, 12:45pm-2:45pm
 
 ### Course Description
