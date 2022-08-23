@@ -21,7 +21,7 @@ Office Hours:
 
  Section  | Days      |  Time       | Room    | Final Exam
  -------- | --------- |  ---------- | ------- | ----------
-102       | Wed/Fri   | 12:00-1:15  | KEC 123 | Fri, Dec 9, 12:45pm-2:45pm
+102       | Wed/Fri   | 12:00-1:15  | KEC 123 | Fri, Dec 9, 03:00pm-5:00pm
 103       | Tue/Thu   | 2:00-3:15  | KEC 123 | Thu, Dec 8, 12:45pm-2:45pm
 
 ### Course Description
@@ -90,7 +90,7 @@ Your overall grade for the course will be determined as follows:
 
 ### Course website
 
-Please check the [course web page](https://ycpcs.github.io/cs201-fall2022), regularly for important announcements.
+Please check the [course web page](https://ycpcs.github.io/cs201-fall2022-102), regularly for important announcements.
 
 ### Reading Assignments
 
@@ -102,7 +102,7 @@ You **must** make a legitimate attempt to complete every homework assignment. We
 
 ### Posting and submission of assignments and labs
 
-Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-fall2022).
+Assignments and labs will be posted as zip files on the [course web page](https://ycpcs.github.io/cs201-fall2022-102).
 
 Assignments and labs will be submitted using the [Marmoset server](https://cs.ycp.edu/marmoset). If you do not already have an account, you will receive an email containing the username and password for this server.
 

@@ -9,7 +9,7 @@ title: Home page
 
 Welcome to the website for CS 201, Fundamentals of Computer Science II, at York College.  All information about the course will be posted here.
 
-For CS 201 Section 103, please click on this link [CS201 Section 102](https://ycpcs.github.io/cs201-fall2022/)
+For CS 201 Section 103, please click on this link [CS201 Section 103](https://ycpcs.github.io/cs201-fall2022/)
 
 ## Links
 
