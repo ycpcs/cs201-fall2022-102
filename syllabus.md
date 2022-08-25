@@ -16,12 +16,12 @@ Instructors:
 
 Office Hours:
 - **Dr. Kambhampaty** - KEC 115: Thu 9:30 am-2:00 pm, or by appointment
-- **Professor Zeller** - 10:30 am-12:00 pm Wednesday and Friday or by appointment
+- **Professor Zeller** - KEC 136: 10:30 am-12:00 pm Wednesday and Friday or by appointment
 
 
  Section  | Days      |  Time       | Room    | Final Exam
  -------- | --------- |  ---------- | ------- | ----------
-102       | Wed/Fri   | 12:00-1:15  | KEC 123 | Fri, Dec 9, 3:00pm-5:00pm
+102       | Wed/Fri   | 12:00-1:15  | KEC 123 | Fri, Dec 9, 12:45pm-2:45pm
 103       | Tue/Thu   | 2:00-3:15  | KEC 123 | Thu, Dec 8, 12:45pm-2:45pm
 
 ### Course Description
@@ -33,6 +33,12 @@ This course introduces advanced object-oriented constructs such as abstraction, 
 CS 101 with a grade of 2 or better
 
 ### Textbook
+
+**Required**
+
+None
+
+**Recommended**
 
 Mark Allen Weiss, [Data Structures & Problem Solving Using Java, 4th ed.](http://www.pearsonhighered.com/educator/product/Data-Structures-and-Problem-Solving-Using-Java/9780321541406.page)
 
@@ -82,8 +88,8 @@ Grades are assigned on a 100-point scale:
 
 Your overall grade for the course will be determined as follows:
 
--   Homework and programming assignments: 30%
--   Exams (3 midterm exams and 1 comprehensive final exam - lowest dropped): 65% <sup><b>\*</b></sup>
+-   Homework and programming assignments: 25%
+-   Exams (3 midterm exams and 1 comprehensive final exam - lowest dropped): 70% <sup><b>\*</b></sup>
 -   Labs, attendance/participation: 5%
 
 <sup><b>\*</b></sup> Note that you must earn a score of 70 or above on *at least one exam* and have at least a 60% average on your top 3 exam scores in order to receive a grade of 2.0 or higher for the course.
@@ -119,11 +125,11 @@ We *strongly* recommend that you work on the labs before you come to class, so t
 
 ### Late Assignments
 
-Late assignments will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.**  NOTE: Even though you **will not** receive any graded credit for submissions more than 2 days late, **you must still submit a good faith attempt for the assignment before the final exam.**
+Late assignments will be marked down 10% per day late. **No credit will be given for assignments that are more than two (2) days late.**  NOTE: Even though you **will not** receive any graded credit for submissions more than 2 days late, **you must still submit a good faith attempt for the assignment before the final exam to receive a passing grade of 2.0 or higher for the course.**
 
 ### Exams
 
-**No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided. All exams will be open book and notes.**
+**No make-up exams will be given without approval of the instructor prior to class unless proof of extreme emergency or illness is provided.** Exams will consist of a closed-book written portion and an open-book programming portion.
 
 ### Attendance and Participation
 
