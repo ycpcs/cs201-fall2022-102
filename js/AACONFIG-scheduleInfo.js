@@ -3,7 +3,7 @@
 courseInfo.classPeriods = [
 
 	{
-		topic: new DoubleTopic("Lecture 0: Introduction to Java & Installing IntelliJ", "resources/index.html","","")
+		topic: new DoubleTopic("Lecture 0: Introduction to Java & Installing IntelliJ", "","","")
 		
 	},
 	{
