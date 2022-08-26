@@ -1,6 +1,10 @@
 // This file defines the class periods and final exam days.
 
 courseInfo.classPeriods = [
+
+	{
+		topic: new DoubleTopic("Lecture 0: Introduction to Java & Installing IntelliJ", "resources/index.html"),
+	},
 	{
 		topic: new DoubleTopic("Lecture 1: Introduction, Primitive Java", "lectures/lecture01.html","CS201_Lecture01_Gradle.zip", "examples/CS201_Lecture01_Gradle.zip"),
 		reading: "1.1&ndash;1.6",
