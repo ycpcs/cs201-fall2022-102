@@ -29,7 +29,7 @@ courseInfo.classPeriods = [
 	},
 	
 	{
-		topic: new DoubleTopic("Lecture 4: Overloading, JUnit", "lectures/lecture05.html", "CS201_Lecture04_Gradle.zip", "examples/CS201_Lecture04_Gradle.zip"),
+		topic: new DoubleTopic("Lecture 4: Overloading, JUnit", "lectures/lecture04.html", "CS201_Lecture04_Gradle.zip", "examples/CS201_Lecture04_Gradle.zip"),
 		lab: new NumberedLabGradle(4, "Testing Overloaded Constructors")
 	},
  	{
@@ -53,7 +53,7 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(8, "Inheriting Fields and Methods")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture9.html", "CS201_Lecture9_Gradle.zip","examples/CS201_Lecture9_Gradle.zip"),
+ 		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html", "CS201_Lecture9_Gradle.zip","examples/CS201_Lecture9_Gradle.zip"),
  		lab: new NumberedLabGradle(9, "Comparable, Sorting")
  	},
  	{
