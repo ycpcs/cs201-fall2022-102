@@ -17,6 +17,12 @@ courseInfo.classPeriods = [
 		lab: new NumberedLabGradle(2, "Coins class")
 	},
 	{
+		topic: new DoubleTopic("Lecture 2: Classes, Objects/References, Encapsulation (Continued)", "lectures/lecture02.html","CS201_Lecture02_Gradle.zip", "examples/CS201_Lecture02_Gradle.zip"),
+		reading: "2.1&ndash;2.3",
+		lab: new NumberedLabGradle(2, "Coins class")
+		
+	},
+	{
 		topic: new DoubleTopic("Lecture 3: Arrays and ArrayLists", "lectures/lecture03.html", "CS201_Lecture03_Gradle.zip", "examples/CS201_Lecture03_Gradle.zip"),
 		reading: "3.1&ndash;3.9",
 		lab: new NumberedLabGradle(3, "Arrays and ArrayLists")
