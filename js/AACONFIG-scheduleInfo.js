@@ -64,7 +64,7 @@ courseInfo.classPeriods = [
  	},
 	{
 		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
-		lab: new NumberedLabGradle(4, "Drag and Drop GUI")
+		lab: new NumberedLabGradle(10, "Drag and Drop GUI")
 	},
  	{
  		topic: new TripleTopic("Lecture 11: Generic methods and classes", "lectures/lecture11.html", "CS201_Lecture11_Gradle.zip","examples/CS201_Lecture11_Gradle.zip", "CS201_Lecture11_Gradle_Final.zip","examples/CS201_Lecture11_Gradle_Final.zip"),
