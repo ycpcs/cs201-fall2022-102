@@ -5,13 +5,13 @@ title: "Lab 8: Inheriting Fields and Methods"
 
 ## Getting Started
 
-Download [CS201\_Lab09\_Gradle.zip](CS201_Lab09_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab08\_Gradle.zip](CS201_Lab08_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
-Select the **CS201\_Lab09\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Lab08\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
 
-You should see a project called **CS201\_Lab09\_Gradle** in the Project window.
+You should see a project called **CS201\_Lab08\_Gradle** in the Project window.
 
 To begin, run the program by right-clicking on the file **StartLab.java** in the **src/main/java/** directory, and then choosing
 
@@ -132,8 +132,8 @@ public void testFindAverageSpeed() throws Exception {
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS201_Lab09_Gradle</b>
-CS201-Spring2022/CS201_Lab09_Gradle
+$ <b>cd CS201_Lab08_Gradle</b>
+CS201-Fall2022/CS201_Lab08_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -148,9 +148,9 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2022
          Course:     CS 201
-         Assignment: lab09
+         Assignment: lab08
 
 ######################################################################
 </pre>

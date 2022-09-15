@@ -5,13 +5,13 @@ title: "Lab 09: Comparable, Sorting"
 
 ## Getting Started
 
-Download [CS201\_Lab10\_Gradle.zip](CS201_Lab10_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab09\_Gradle.zip](CS201_Lab09_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
-Select the **CS201\_Lab10\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Lab09\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
 
-You should see a project called **CS201\_Lab10\_Gradle** in the Project window.
+You should see a project called **CS201\_Lab09\_Gradle** in the Project window.
 
 **There is no executable application for this lab.** Instead, we will test the class implementation by running the unit tests by right-clicking on the file **CardTest.java** in the **src/test/java/** directory, and then choosing
 
@@ -66,8 +66,8 @@ public void testSort() {
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS201_Lab10_Gradle</b>
-CS201-Spring2022/CS201_Lab10_Gradle
+$ <b>cd CS201_Lab09_Gradle</b>
+CS201-Fall2022/CS201_Lab09_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -82,9 +82,9 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2022
          Course:     CS 201
-         Assignment: lab10
+         Assignment: lab09
 
 ######################################################################
 </pre>

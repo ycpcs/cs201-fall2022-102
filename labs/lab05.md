@@ -5,13 +5,13 @@ title: "Lab 5: Text File I/O"
 
 ## Getting Started
 
-Download [CS201\_Lab06\_Gradle.zip](CS201_Lab06_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
+Download [CS201\_Lab05\_Gradle.zip](CS201_Lab05_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
-Select the **CS201\_Lab06\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Lab05\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
 
-You should see a project called **CS201\_Lab06\_Gradle** in the Project window.
+You should see a project called **CS201\_Lab05\_Gradle** in the Project window.
 
 Run the program by right-clicking on the file **Remember.java** in the **src/main/java/** directory, and then choosing
 
@@ -52,15 +52,15 @@ You will need to be able to determine whether or not the file containing the nam
         // the file has not been created yet
     }
 
-Once the file is created, it should appear in the **CS201\_Lab06\_Gradle** directory.
+Once the file is created, it should appear in the **CS201\_Lab05\_Gradle** directory.
 
 ## Submitting
 
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS201_Lab06_Gradle</b>
-CS201-Fall2022/CS201_Lab06_Gradle
+$ <b>cd CS201_Lab05_Gradle</b>
+CS201-Fall2022/CS201_Lab05_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -77,7 +77,7 @@ Details:
 
          Semester:   Fall 2022
          Course:     CS 201
-         Assignment: lab06
+         Assignment: lab05
 
 ######################################################################
 </pre>

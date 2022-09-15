@@ -5,13 +5,13 @@ title: "Lab 4: Testing Overloaded Constructors"
 
 ## Getting Started
 
-Download [CS201\_Lab05\_Gradle.zip](CS201_Lab05_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
+Download [CS201\_Lab04\_Gradle.zip](CS201_Lab04_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
-Select the **CS201\_Lab05\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Lab04\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
 
-You should see a project called **CS201\_Lab05\_Gradle** in the Project window.
+You should see a project called **CS201\_Lab04\_Gradle** in the Project window.
 
 To begin, run the program by right-clicking on the file **StartLab.java** in the **src/main/java/** directory, and then choosing
 
@@ -52,8 +52,8 @@ Make the following modifications to the **CoinsTest** class:
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS201_Lab05_Gradle</b>
-CS201-Fall2022/CS201_Lab05_Gradle
+$ <b>cd CS201_Lab04_Gradle</b>
+CS201-Fall2022/CS201_Lab04_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -70,7 +70,7 @@ Details:
 
          Semester:   Fall 2022
          Course:     CS 201
-         Assignment: lab05
+         Assignment: lab04
 
 ######################################################################
 </pre>

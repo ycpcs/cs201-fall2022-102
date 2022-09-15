@@ -5,13 +5,13 @@ title: "Lab 6: Exceptions"
 
 ## Getting Started
 
-Download [CS201\_Lab07\_Gradle.zip](CS201_Lab07_Gradle.zip). Copy and extract the zip file into your **CS201-Spring2022** directory. Import it into your **CS201-Spring2022** IntelliJ project using
+Download [CS201\_Lab06\_Gradle.zip](CS201_Lab06_Gradle.zip). Copy and extract the zip file into your **CS201-Fall2022** directory. Import it into your **CS201-Fall2022** IntelliJ project using
 
 > **File&rarr;New&rarr;Module from Existing Sources...**
 
-Select the **CS201\_Lab07\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
+Select the **CS201\_Lab06\_Gradle** directory and in the **Import Module** dialog select **Import module from external model&rarr;Gradle** and click **Finish**.
 
-You should see a project called **CS201\_Lab07\_Gradle** in the Project window.
+You should see a project called **CS201\_Lab06\_Gradle** in the Project window.
 
 Run the program by right-clicking on the file **ReadFile.java** in the **src/main/java/** directory, and then choosing
 
@@ -70,8 +70,8 @@ Use a **try/catch** block to handle an **IOException** or **FileNotFoundExceptio
 When you are done, submit the lab to the Marmoset server using the Terminal window in IntelliJ (click **Terminal** at the bottom left of the IDE). Navigate to the directory using
 
 <pre>
-$ <b>cd CS201_Lab07_Gradle</b>
-CS201-Spring2022/CS201_Lab07_Gradle
+$ <b>cd CS201_Lab06_Gradle</b>
+CS201-Fall2022/CS201_Lab06_Gradle
 $ <b>make submit</b>
 </pre>
 
@@ -86,9 +86,9 @@ check that the files you submitted are correct.
 
 Details:
 
-         Semester:   Spring 2022
+         Semester:   Fall 2022
          Course:     CS 201
-         Assignment: lab07
+         Assignment: lab06
 
 ######################################################################
 </pre>
