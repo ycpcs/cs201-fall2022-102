@@ -12,8 +12,8 @@ Assignments are due by 11:59 PM on the due date, although I will **NOT** assess 
 
 > Assignment | File | Due
 > ---------- | ---- | ---
-> **Assignment 1: Yatzee Game** | [Assignment 01: Yatzee!!!] (Assignment 01 Yatzee.pdf) | MS1 Fri, Sept 16th<br>MS2 Sun, Sept 25th<br>MS3 Fri, Oct 7th
-
+> **Assignment 1: Yatzee Game** | [Assignment 01: Yatzee!!!] (Assignment-01-Yatzee.pdf) | MS1 Fri, Sept 16th<br>MS2 Sun, Sept 25th<br>MS3 Fri, Oct 7th
+[Feb Calendar](CS320-Spring-Feb-2021-Calendar-1.4.pdf)
 
 
 <!--
