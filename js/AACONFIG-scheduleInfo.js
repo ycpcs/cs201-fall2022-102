@@ -53,11 +53,11 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(8, "Inheriting Fields and Methods")
  	},
  	{
+ 		topic: new Topic("Exam 1 Review", "")
+ 	},
+	{
  		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html", "CS201_Lecture9_Gradle.zip","examples/CS201_Lecture9_Gradle.zip"),
  		lab: new NumberedLabGradle(9, "Comparable, Sorting")
- 	},
- 	{
- 		topic: new Topic("Exam 1 Review", "")
  	},
  	{
  		topic: new Topic("** Exam 1", "")
