@@ -37,6 +37,10 @@ courseInfo.classPeriods = [
  		reading: "2.5&ndash;2.6",
  		lab: new NumberedLabGradle(5, "Text File I/O")
  	},
+	{
+		topic: new DoubleTopic("Lecture 4: Overloading, JUnit", "lectures/lecture04.html", "CS201_Lecture04_Gradle.zip", "examples/CS201_Lecture04_Gradle.zip"),
+		lab: new NumberedLabGradle(4, "Testing Overloaded Constructors")
+	},
  	{
  		topic: new DoubleTopic("Lecture 6: Exceptions", "lectures/lecture06.html", "CS201_Lecture06_Gradle.zip", "examples/CS201_Lecture06_Gradle.zip"),
  		reading: "2.5",
