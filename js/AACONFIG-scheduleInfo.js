@@ -55,12 +55,13 @@ courseInfo.classPeriods = [
  	{
  		topic: new Topic("Exam 1 Review", "")
  	},
+	
+ 	{
+ 		topic: new Topic("** Exam 1", "")
+ 	},
 	{
  		topic: new DoubleTopic("Lecture 9: Type casts, instanceof, Object class, Interfaces", "lectures/lecture09.html", "CS201_Lecture9_Gradle.zip","examples/CS201_Lecture9_Gradle.zip"),
  		lab: new NumberedLabGradle(9, "Comparable, Sorting")
- 	},
- 	{
- 		topic: new Topic("** Exam 1", "")
  	},
 	{
 		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
