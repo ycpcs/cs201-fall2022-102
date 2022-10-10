@@ -131,21 +131,21 @@ courseInfo.classPeriods = [
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
- 	{
- 		topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
- 		reading: "7.1, 7.3",
- 		lab: new NumberedLabGradle(21, "Recursion")
- 	},
- 	{
- 		topic: new Topic("Lecture 22: Proof by Induction", "lectures/lecture22.html"),
- 		reading: "7.2",
- 		lab: new NumberedLabNoFile(22, "Proof by Induction")
- 	},
- 	{
- 		topic: new DoubleTopic("Lecture 23: Memoization and Dynamic Programming", "lectures/lecture23.html", "CS201_Lecture23_Gradle.zip","examples/CS201_Lecture23_Gradle.zip"),
- 		reading: "7.6",
- 		lab: new NumberedLabGradle(23, "Binomial Coefficient")
- 	},
+ 	// {
+ 		// topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
+ 		// reading: "7.1, 7.3",
+ 		// lab: new NumberedLabGradle(21, "Recursion")
+ 	// },
+ 	// {
+ 		// topic: new Topic("Lecture 22: Proof by Induction", "lectures/lecture22.html"),
+ 		// reading: "7.2",
+ 		// lab: new NumberedLabNoFile(22, "Proof by Induction")
+ 	// },
+ 	// {
+ 		// topic: new DoubleTopic("Lecture 23: Memoization and Dynamic Programming", "lectures/lecture23.html", "CS201_Lecture23_Gradle.zip","examples/CS201_Lecture23_Gradle.zip"),
+ 		// reading: "7.6",
+ 		// lab: new NumberedLabGradle(23, "Binomial Coefficient")
+ 	// },
 // 	{
 // 		topic: new Topic("Lecture 23: Merge and Quick Sort", "lectures/lecture23.html"),
 // 		reading: "8.5-8.6",
