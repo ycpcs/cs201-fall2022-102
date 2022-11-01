@@ -81,6 +81,9 @@ courseInfo.classPeriods = [
  		reading: "4.8",
  		lab: new NumberedLabGradle(12, "Functors")
  	},
+	{
+ 		topic: new Topic("Exam 1 Solution and Analysis", "")
+ 	},
  	{
  		topic: new DoubleTopic("Lecture 13: Analysis of Algorithms", "lectures/lecture13.html", "Lecture 14: Big-O", "lectures/lecture14.html"),
  		reading: "5.1&ndash;5.3",
