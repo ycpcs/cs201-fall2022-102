@@ -154,9 +154,9 @@ courseInfo.classPeriods = [
 // 		reading: "8.5-8.6",
 // 		lab: new Lab("No lab", "")
 // 	},
- 	{
- 		topic: new Topic("Exam 3 Review", "")
- 	},
+ 	//{
+ 		//topic: new Topic("Exam 3 Review", "")
+ 	//},
  	{
  		topic: new Topic("** Exam 3", "")
  	},
