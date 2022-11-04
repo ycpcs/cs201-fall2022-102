@@ -130,7 +130,7 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(19, "Palindromes")
  	},
  	{
- 		topic: new TripleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip" "** Exam 3 Review", "")),
+ 		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip")),
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
