@@ -130,10 +130,14 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(19, "Palindromes")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip"),
+ 		topic: new TripleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip" "** Exam 3 Review", "")),
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
+	{
+		topic: new TripleTopic("Lecture 10: GUIs and MVC", "lectures/lecture10.html", "CS201_Lecture10_Gradle.zip", "examples/CS201_Lecture10_Gradle.zip", "CS201_GUIMVCDemo_Gradle.zip","examples/CS201_GUIMVCDemo_Gradle.zip"),
+		lab: new NumberedLabGradle(10, "Drag and Drop GUI")
+	},
  	// {
  		// topic: new DoubleTopic("Lecture 21: Recursion", "lectures/lecture21.html", "CS201_Lecture21_Gradle.zip","examples/CS201_Lecture21_Gradle.zip"),
  		// reading: "7.1, 7.3",
