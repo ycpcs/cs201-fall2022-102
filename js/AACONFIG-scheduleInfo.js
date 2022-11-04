@@ -3,7 +3,7 @@
 courseInfo.classPeriods = [
 
 	{
-		topic: new DoubleTopic("Lecture 0: Introduction to Java & Installing IntelliJ", "","","")
+		topic: new Topic("Lecture 0: Introduction to Java & Installing IntelliJ", "")
 		
 	},
 	{
@@ -130,7 +130,7 @@ courseInfo.classPeriods = [
  		lab: new NumberedLabGradle(19, "Palindromes")
  	},
  	{
- 		topic: new DoubleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip"),
+ 		topic: new TripleTopic("Lecture 20: Sets and Maps", "lectures/lecture20.html", "CS201_Lecture20_Gradle.zip","examples/CS201_Lecture20_Gradle.zip", "Exam 3 Review", ""),
  		reading: "6.7-6.8",
  		lab: new NumberedLabGradle(20, "Word Count")
  	},
@@ -155,9 +155,9 @@ courseInfo.classPeriods = [
 // 		reading: "8.5-8.6",
 // 		lab: new Lab("No lab", "")
 // 	},
- 	//{
- 		//topic: new Topic("Exam 3 Review", "")
- 	//},
+// 	{
+// 		topic: new Topic("Exam 3 Review", "")
+// 	},
  	{
  		topic: new Topic("** Exam 3", "")
  	},

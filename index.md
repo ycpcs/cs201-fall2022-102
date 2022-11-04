@@ -29,6 +29,11 @@ For CS 201 Section 103, please click on this link [CS201 Section 103](https://yc
 
 ## News
 * **Aug 22** &mdash; Welcome back!
+* **Nov 6** &mdash; [Assignment 2 Milestone 2](Assignment_2_milestone_2-Database_Manager.pdf) is due.
+* **FRIDAY Nov 11 12:00 pm-1:15 pm - Midterm EXAM 3 CS201.102**
+* **Nov 13** &mdash; [Assignment 2 Milestone 3](Assignment_2_milestone_3-Database_Features.pdf) is due.
+* **FRIDAY DEC 10 12:45 pm-2:45 pm - FINAL EXAM CS201.102 (12 pm section)**
+
 
 
 <!--
